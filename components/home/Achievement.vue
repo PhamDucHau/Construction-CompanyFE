@@ -8,7 +8,7 @@
             <h2>Thành tựu của chúng tôi</h2>
           </div>
           <div class="des">
-            Với +18 năm trong nghề, ND Contruction luôn tự hào là đơn vị thiết
+            Với +18 năm trong nghề, QD Contruction luôn tự hào là đơn vị thiết
             kế thi công chuyên nghiệp, luôn mang lại giá trị thiết thực nhất tới
             khách hàng.
           </div>

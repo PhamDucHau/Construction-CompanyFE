@@ -9,7 +9,7 @@
             Chất lượng – An toàn – Hiệu quả – Chuyên nghiệp
           </div>
           <div class="about-des">
-            ND Construction là 1 trong những đơn vị đi đầu trong lĩnh vực thiết
+            QD Construction là 1 trong những đơn vị đi đầu trong lĩnh vực thiết
             kế & thi công trọn gói. Trải qua nhiều năm hình thành và phát triển,
             chúng tôi vẫn giữ nguyên một sứ mệnh duy nhất: cung cấp dịch vụ thi
             công trọn gói các công trình dân dụng với những chiến lược thay đổi
