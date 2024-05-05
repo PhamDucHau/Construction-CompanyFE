@@ -38,7 +38,7 @@ export default {
           img: "https://bizweb.dktcdn.net/100/483/185/themes/937690/assets/ico_policy2.png?1705917028189",
           title: "Đảm bảo đúng thời gian",
           description:
-            "Cam kết đúng thời gian, tiến độ đã trở thành truyền thống phong cách làm việc của ND Construction.",
+            "Cam kết đúng thời gian, tiến độ đã trở thành truyền thống phong cách làm việc của QD Construction.",
         },
         {
           img: "https://bizweb.dktcdn.net/100/483/185/themes/937690/assets/ico_policy3.png?1705917028189",
